@@ -14,12 +14,7 @@ How to Build
 
 Resources
 ---------
-1. Read about the original Java FX 1 design in Henry Zhang's five part series:
-    * [Part 1][1]
-    * [Part 2][2]
-    * [Part 3][3]
-    * [Part 4][4]
-    * [Part 5][5]
+
 + Read Patrick Webster's [blog post][blog] announcing the first working Java FX 2 version.
 
 Author
